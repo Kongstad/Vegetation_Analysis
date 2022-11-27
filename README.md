@@ -1,6 +1,6 @@
 # Vegetation analysis of satellite imagery via QGIS, SNAP and Python.
 
-This repository takes you through the use of optical satellite data for making an analysis of vegetation and investigates the use of machine learning to detect features in these images. 
+This repository takes you through the use of optical satellite data for analysis of vegetation and investigates the use of machine learning in order to detect features in these images. 
 
 You will find various jupyter notebooks and instructional text in how to accomplish this.
 
