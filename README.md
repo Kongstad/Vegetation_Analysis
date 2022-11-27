@@ -11,7 +11,7 @@ You will find various jupyter notebooks and instructional text in how to accompl
 5) [Supervised machinelearning - Jupyter notebook](https://github.com/Kongstad/Vegetation_Analysis/blob/main/Jupyter_Notebook/Nachine_Learning_Supervised.ipynb)
 
 ### Further explained:
-1) This notebook contains scripts to log in to the Sentinel-2 database, which will download any data that fits the script parameters. Cloud cover, date, geojson input etc. Make sure to narrow your search parameters and set the download destination folder as it will begin downloading large files right away. I can recommend locating the tiles you need first throught [External link - www.sentinel-hub.com/eo-browser](https://apps.sentinel-hub.com/eo-browser).
+1) This notebook contains scripts to log in to the Sentinel-2 database, which will download any data that fits the script parameters. Cloud cover, date, geojson input etc. Make sure to narrow your search parameters and set the download destination folder as it will begin downloading large files right away. I can recommend locating the tiles you need first through the EO browser found at [External link - www.sentinel-hub.com/eo-browser](https://apps.sentinel-hub.com/eo-browser).
 
 2) This subpage of this repository contains a little more information on how I preprocssed the images after downloading them and on how the geojson is obtained. Furthermore a youtube video is provided on how to subset and resample the spatial resolution of the various Sentinel-2 bands so all bands can be utilized in the same spatial resolution framework.
 
