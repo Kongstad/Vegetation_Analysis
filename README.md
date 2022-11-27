@@ -5,8 +5,8 @@ This repository takes you through the use of optical satellite data for making a
 You will find various jupyter notebooks and instructional text in how to accomplish this.
 
 1) [Retrieve satellite data from Sentinel-2 - Jupyter notebook](https://github.com/Kongstad/Vegetation_Analysis/blob/main/Jupyter_Notebook/Download_S2_data.ipynb)
-2) [Sentinel- Jupyter notebook](https://github.com/Kongstad/Vegetation_Analysis/tree/main/Sentinel2_tools)
-3) [Load data, plot it and conduct analysis - Jupyter notebook](https://github.com/Kongstad/Vegetation_Analysis/blob/main/Jupyter_Notebook/imagery_analysis.ipynb)
+2) [Sentinel-2 Tools](https://github.com/Kongstad/Vegetation_Analysis/tree/main/Sentinel2_tools)
+3) [Load data, visualize it and conduct analysis - Jupyter notebook](https://github.com/Kongstad/Vegetation_Analysis/blob/main/Jupyter_Notebook/imagery_analysis.ipynb)
 4) [Unsupervised machinelearning - Jupyter notebook](https://github.com/Kongstad/Vegetation_Analysis/blob/main/Jupyter_Notebook/Nachine_Learning_Unsupervised.ipynb)
 5) [Supervised machinelearning - Jupyter notebook](https://github.com/Kongstad/Vegetation_Analysis/blob/main/Jupyter_Notebook/Nachine_Learning_Supervised.ipynb)
 
