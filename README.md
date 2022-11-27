@@ -8,7 +8,7 @@ You will find various jupyter notebooks and instructional text in how to accompl
 2) [Sentinel-2 Tools](https://github.com/Kongstad/Vegetation_Analysis/tree/main/Sentinel2_tools)
 3) [Load data, visualize it and conduct analysis - Jupyter notebook](https://github.com/Kongstad/Vegetation_Analysis/blob/main/Jupyter_Notebook/imagery_analysis.ipynb)
 4) [Unsupervised machinelearning - Jupyter notebook](https://github.com/Kongstad/Vegetation_Analysis/blob/main/Jupyter_Notebook/Nachine_Learning_Unsupervised.ipynb)
-5) [Supervised machinelearning - Jupyter notebook](https://github.com/Kongstad/Vegetation_Analysis/blob/main/Jupyter_Notebook/Nachine_Learning_Supervised.ipynb)
+5) [(Unfinished) Supervised machinelearning - Jupyter notebook](https://github.com/Kongstad/Vegetation_Analysis/blob/main/Jupyter_Notebook/Nachine_Learning_Supervised.ipynb)
 
 ### Further explained:
 1) This notebook contains scripts to log in to the Sentinel-2 database, which will download any data that fits the script parameters. Cloud cover, date, geojson input etc. Make sure to narrow your search parameters and set the download destination folder as it will begin downloading large files right away. I can recommend locating the tiles you need first through the EO browser found at [External link - www.sentinel-hub.com/eo-browser](https://apps.sentinel-hub.com/eo-browser).
@@ -19,5 +19,5 @@ You will find various jupyter notebooks and instructional text in how to accompl
 
 4) The Unsupervised machine learning notebook looks at classifying objects based on a K-means clustering model. As there are no ground truth available for classification of objects on this particular dataset, K-means ability to discern different types of vegetation, fields, cities etc. is evaluated.
 
-5) TBD
+5) The supervised machine learning notebook looks at the performance of machine learning models for the dataset provided classified data to train on. This notebook is not quite finished yet and will be uploaded soon.
 
