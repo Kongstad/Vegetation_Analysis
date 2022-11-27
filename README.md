@@ -1,4 +1,4 @@
-# Using multi spectracl satellite imagery for vegetation health analysis via QGIS, SNAP and Python.
+# Using multi spectral satellite imagery for vegetation health analysis via QGIS, SNAP and Python.
 
 This repository takes you through the use of multi spectral satellite data for analysis of vegetation health and investigates the use of machine learning in order to detect structures in the various spectral bands. 
 
