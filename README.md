@@ -15,9 +15,9 @@ You will find various jupyter notebooks and instructional text in how to accompl
 
 2) This subpage of this repository contains a little more information on how I preprocssed the images after downloading them and on how the geojson is obtained. Furthermore a youtube video is provided on how to subset and resample the spatial resolution of the various Sentinel-2 bands so all bands can be utilized in the same spatial resolution framework.
 
-3) This notebook loads the data in and visualizes all the bands and genereates histograms. It furthermore takes you through several of the commonly used metrics involved in establishing vegetation health. Furthermore I have included local weather information to compare the actual ground truth with what we can derive from the satellite to put it all in context. You will find 'class' estimation based loosely on NDVI parameters and evaluation of false colour images as well.
+3) This notebook loads the data in and visualizes all the bands and genereates histograms. It furthermore takes you through several of the commonly used metrics involved in establishing vegetation health. Furthermore I have included local weather information to compare the actual ground truth with what we can derive from the satellite to put it all in context. You will find a 'class' estimation example based loosely on NDVI parameters and evaluation of false colour images as well.
 
-4) The Unsupervised machine learning notebook looks at classifying objects based a K-means clustering model. As there are no ground truth available for classification of objects on this particular dataset, K-means ability to discern different types of vegetation, fields, cities etc. is evaluated.
+4) The Unsupervised machine learning notebook looks at classifying objects based on a K-means clustering model. As there are no ground truth available for classification of objects on this particular dataset, K-means ability to discern different types of vegetation, fields, cities etc. is evaluated.
 
 5) TBD
 
