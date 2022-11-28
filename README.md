@@ -7,8 +7,8 @@ You will find various jupyter notebooks and instructional text in how to accompl
 1) [Retrieve satellite data from Sentinel-2 - Jupyter notebook](https://github.com/Kongstad/Vegetation_Analysis/blob/main/Jupyter_Notebook/Download_S2_data.ipynb)
 2) [Sentinel-2 Tools](https://github.com/Kongstad/Vegetation_Analysis/tree/main/Sentinel2_tools)
 3) [Load data, visualize it and conduct analysis - Jupyter notebook](https://github.com/Kongstad/Vegetation_Analysis/blob/main/Jupyter_Notebook/imagery_analysis.ipynb)
-4) [Unsupervised machinelearning - Jupyter notebook](https://github.com/Kongstad/Vegetation_Analysis/blob/main/Jupyter_Notebook/Nachine_Learning_Unsupervised.ipynb)
-5) [(Unfinished) Supervised machine learning - Jupyter notebook](https://github.com/Kongstad/Vegetation_Analysis/blob/main/Jupyter_Notebook/Machine_Learning_Supervised.ipynb)
+4) [Unsupervised machinelearning - Jupyter notebook](https://github.com/Kongstad/Vegetation_Analysis/blob/main/Jupyter_Notebook/Machine_Learning_Unsupervised.ipynb)
+5) [(Unfinished) Supervised machinelearning - Jupyter notebook](https://github.com/Kongstad/Vegetation_Analysis/blob/main/Jupyter_Notebook/Machine_Learning_Supervised.ipynb)
 
 ### Further explained:
 1) This notebook contains scripts to log in to the Sentinel-2 database, which will download any data that fits the script parameters. Cloud cover, date, geojson input etc. Make sure to narrow your search parameters and set the download destination folder as it will begin downloading large files right away. I can recommend locating the tiles you need first through the EO browser found at [External link - www.sentinel-hub.com/eo-browser](https://apps.sentinel-hub.com/eo-browser).
