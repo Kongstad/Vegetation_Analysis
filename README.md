@@ -3,7 +3,7 @@
 ![Screenshot](/ext_img/fyn_1_classed.PNG)
 
 
-This repository takes you through the use of multi spectral satellite data for analysis of vegetation health and investigates the use of machine learning in order to detect structures in the various spectral bands. 
+This repository takes you through the use of multi spectral satellite data for analysis of vegetation health, the effects of a summer drought and investigates the use of machine learning in order to detect land usage and boundaries in the various spectral bands. 
 
 You will find various jupyter notebooks and instructional text in how to accomplish this.
 
